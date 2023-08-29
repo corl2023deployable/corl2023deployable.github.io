@@ -21,3 +21,58 @@ We intend to guide our conversations with the following topics:
 5. What are the key success stories and lessons learned from existing deployments of classical robotic systems?
 
 Due to the interdisciplinary nature of this workshop, we encourage participants not only from the robot learning community, but equally importantly those from classical robotics and control systems, as well as industry practitioners with first-hand experience deploying such systems.
+
+&nbsp;
+&nbsp;
+
+### Speakers
+
+<article class="gallery">
+  <figure>
+  <img src="assets/img/speakers/xiaolong_wang.jpg" width="200"/>
+  <figcaption>Xiaolong Wang<br>(UCSD)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/stefan_schaal.jpg" width="200" /> 
+  <figcaption>Stefan Schaal<br>(Intrinsic)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/sergey_levine.jpg" width="200" />
+  <figcaption>Sergey Levine<br>(Berkeley)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/scott_kuindersma.jpg" width="200" />
+  <figcaption>Scott Kuindersma<br>(Boston Dynamics)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/russ_tedrake.jpg" width="200" />
+  <figcaption>Russ Tedrake<br>(MIT, TRI)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/nicolas_heess.jpg" width="200" />
+  <figcaption>Nicolas Heess<br>(Deepmind)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/emo_todorov.jpg" width="200" />
+  <figcaption>Emo Todorov<br>(UW)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/dieter_fox.jpg" width="200" />
+  <figcaption>Dieter Fox<br>(UW, Nvidia)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/speakers/chelsea_finn.jpg" width="200" />
+  <figcaption>Chelsea Finn<br>(Stanford)</figcaption>
+  </figure>
+
+
+
+</article>

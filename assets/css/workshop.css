@@ -92,3 +92,22 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+.gallery {
+  width: 100%;
+}
+
+.gallery figure {
+display: inline-block;
+width: 16%;
+min-height: 100px;
+margin-right: 10px;
+}
+img {
+width: 100%;
+}
+
+figure figcaption {
+  font-size: 16px;
+  text-align: center;
+}
