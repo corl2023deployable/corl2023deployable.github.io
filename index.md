@@ -72,7 +72,43 @@ Due to the interdisciplinary nature of this workshop, we encourage participants 
   <img src="assets/img/speakers/chelsea_finn.jpg" width="200" />
   <figcaption>Chelsea Finn<br>(Stanford)</figcaption>
   </figure>
+</article>
 
 
+&nbsp;
+&nbsp;
+
+### Organizers
+
+<article class="gallery_small">
+  <figure>
+  <img src="assets/img/organizers/jianlan_luo.jpg" width="200"/>
+  <figcaption>Jianlan Luo<br>(Berkeley)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/organizers/fangchen_liu.jpg" width="200" /> 
+  <figcaption>Fangchen Liu<br>(Berkeley)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/organizers/tony_zhao.jpg" width="200" />
+  <figcaption>Tony Zhao<br>(Stanford)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/organizers/huihan_liu.jpg" width="200" />
+  <figcaption>Huihan Liu<br>(UT Austin)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/organizers/lerrel_pinto.jpg" width="200" />
+  <figcaption>Lerrel Pinto<br>(NYU)</figcaption>
+  </figure>
+
+  <figure>
+  <img src="assets/img/organizers/yuke_zhu.jpg" width="200" />
+  <figcaption>Yuke Zhu<br>(UT Austin)</figcaption>
+  </figure>
 
 </article>

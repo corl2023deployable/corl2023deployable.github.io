@@ -103,6 +103,19 @@ width: 18%;
 min-height: 100px;
 margin-right: 10px;
 }
+
+
+.gallery_small {
+  width: 100%;
+}
+
+.gallery_small figure {
+display: inline-block;
+width: 14.8%;
+min-height: 100px;
+margin-right: 10px;
+}
+
 img {
 width: 100%;
 }
