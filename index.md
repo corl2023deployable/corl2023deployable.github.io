@@ -28,12 +28,6 @@ Due to the interdisciplinary nature of this workshop, we encourage participants 
 
 ### Call for papers
 
-We welcome submissions on all topics in robot learning, but particularly favor those addressing algorithmic and practical challenges in deploying learning-based systems in the real world. 
-
-Submissions should be anonymized and have a maximum of 8 pages. They can follow one of the following formats: CoRL, ICRA, ICLR, or NeurIPS. Additionally, we encourage authors to include videos, code, or data as supplementary material either in a zip file or through external anonymized links.
-
-Accepted papers will be presented either as posters or orals, and will be archived on the workshop website with the authors' consent. All papers will be presented on-site during the workshop. At this time, we are not planning to accommodate remote presentation options.
-
 Important Dates:
 
 - Submission portal opens: 2023/09/01
