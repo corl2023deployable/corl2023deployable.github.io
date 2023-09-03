@@ -26,89 +26,119 @@ Due to the interdisciplinary nature of this workshop, we encourage participants 
 &nbsp;
 
 ### Speakers
+&nbsp;
 
-<article class="gallery">
-  <figure>
-  <img src="assets/img/speakers/xiaolong_wang.jpg" width="200"/>
-  <figcaption>Xiaolong Wang<br>(UCSD)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/stefan_schaal.jpg" width="200" /> 
-  <figcaption>Stefan Schaal<br>(Intrinsic)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/sergey_levine.jpg" width="200" />
-  <figcaption>Sergey Levine<br>(Berkeley)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/scott_kuindersma.jpg" width="200" />
-  <figcaption>Scott Kuindersma<br>(Boston Dynamics)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/russ_tedrake.jpg" width="200" />
-  <figcaption>Russ Tedrake<br>(MIT, TRI)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/nicolas_heess.jpg" width="200" />
-  <figcaption>Nicolas Heess<br>(Deepmind)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/emo_todorov.jpg" width="200" />
-  <figcaption>Emo Todorov<br>(UW)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/dieter_fox.jpg" width="200" />
-  <figcaption>Dieter Fox<br>(UW, Nvidia)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/speakers/chelsea_finn.jpg" width="200" />
-  <figcaption>Chelsea Finn<br>(Stanford)</figcaption>
-  </figure>
-</article>
-
+<div class="grid">
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/xiaolong_wang.jpg" width="200"/>
+        <figcaption><b>Xiaolong Wang</b><br>UC San Diego</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/stefan_schaal.jpg" width="200" /> 
+        <figcaption><b>Stefan Schaal</b><br>Intrinsic</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/sergey_levine.jpg" width="200" />
+        <figcaption><b>Sergey Levine</b><br>UC Berkeley</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/scott_kuindersma.jpg" width="200" />
+        <figcaption><b>Scott Kuindersma</b><br>Boston Dynamics</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/russ_tedrake.jpg" width="200" />
+        <figcaption><b>Russ Tedrake</b><br>MIT, Toyota Research Institute</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/nicolas_heess.jpg" width="200" />
+        <figcaption><b>Nicolas Heess</b><br>Deepmind</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/emo_todorov.jpg" width="200" />
+        <figcaption><b>Emo Todorov</b><br>University of Washington</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/dieter_fox.jpg" width="200" />
+        <figcaption><b>Dieter Fox</b><br>University of Washington, Nvidia</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/chelsea_finn.jpg" width="200" />
+        <figcaption><b>Chelsea Finn</b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+</div>
 
 &nbsp;
-&nbsp;
+
 
 ### Organizers
+&nbsp;
 
-<article class="gallery_small">
-  <figure>
-  <img src="assets/img/organizers/jianlan_luo.jpg" width="200"/>
-  <figcaption>Jianlan Luo<br>(Berkeley)</figcaption>
-  </figure>
 
-  <figure>
-  <img src="assets/img/organizers/fangchen_liu.jpg" width="200" /> 
-  <figcaption>Fangchen Liu<br>(Berkeley)</figcaption>
-  </figure>
+<div class="grid">
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/jianlan_luo.jpg" width="200"/>
+        <figcaption><b>Jianlan Luo</b><br>UC Berkeley</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/fangchen_liu.jpg" width="200" /> 
+        <figcaption><b>Fangchen Liu</b><br>UC Berkeley</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/tony_zhao.jpg" width="200" />
+        <figcaption><b>Tony Zhao</b><br>Stanford University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/huihan_liu.jpg" width="200" />
+        <figcaption><b>Huihan Liu</b><br>UT Austin</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/lerrel_pinto.jpg" width="200" />
+        <figcaption><b>Lerrel Pinto</b><br>New York University</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+        <img src="assets/img/organizers/yuke_zhu.jpg" width="200" />
+        <figcaption><b>Yuke Zhu</b><br>UT Austin</figcaption>
+        </figure>
+    </div>
+</div>
 
-  <figure>
-  <img src="assets/img/organizers/tony_zhao.jpg" width="200" />
-  <figcaption>Tony Zhao<br>(Stanford)</figcaption>
-  </figure>
 
-  <figure>
-  <img src="assets/img/organizers/huihan_liu.jpg" width="200" />
-  <figcaption>Huihan Liu<br>(UT Austin)</figcaption>
-  </figure>
+### Advisor
 
-  <figure>
-  <img src="assets/img/organizers/lerrel_pinto.jpg" width="200" />
-  <figcaption>Lerrel Pinto<br>(NYU)</figcaption>
-  </figure>
-
-  <figure>
-  <img src="assets/img/organizers/yuke_zhu.jpg" width="200" />
-  <figcaption>Yuke Zhu<br>(UT Austin)</figcaption>
-  </figure>
-
-</article>
+<div class="grid">
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/organizers/pieter_abbeel.jpg" width="200"/>
+        <figcaption><b>Pieter Abbeel</b><br>UC Berkeley</figcaption>
+        </figure>
+    </div>
+</div>
