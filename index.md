@@ -11,12 +11,12 @@ workshop_date: Monday, Nov 6th, 2023
 workshop_length: Full-day workshop
 ---
 
-The field of robot learning has made substantial progress in endowing robots with greater capability. Despite these advancements, the large-scale real-world adoption of learning-based robotic systems remains limited. This workshop aims to dissect this phenomenon, identifying best practices and novel approaches that could lead to a paradigm shift in how we conceive and build reliable learning-based robotic systems. 
+The field of robot learning has made substantial progress in endowing robots with greater capability, yet the large-scale real-world adoption of learning-based robotic systems remains limited. This workshop aims to dissect this phenomenon and to identify best practices that could lead to a paradigm shift in how we conceive and build reliable learning-based robotic systems. 
 
 We intend to guide our conversations with the following topics:
-1. What are the key challenges in deploying learning-based systems in real-world scenarios?
-2. What are the ingredients to ensure the reliability and robustness of learning-based robotic systems? And how do the deployed classical robotic systems handle such challenges?
-3. How should we design learning algorithms that allow for seamless integration with robotic systems to handle edge cases and unforeseen scenarios in the real world?
+1. What are the key challenges in deploying learning-based systems in the real world?
+2. What are the ingredients to ensure the reliability and robustness of learning-based robotic systems? 
+3. How should we design learning algorithms that handle edge cases and unforeseen scenarios in the real world?
 4. What role does simulation play in the testing and verification of these systems?
 5. What are the key success stories and lessons learned from existing deployments of classical robotic systems?
 
@@ -28,15 +28,21 @@ Due to the interdisciplinary nature of this workshop, we encourage participants 
 
 ### Call for papers
 
-We encourage submissions of full papers (up to 8 pages) and short papers (up to 4 pages) in CoRL or IEEE conference (ICRA or IROS) format. Submissions should be anonymized for double-blind review. Accepted papers will be published in the workshop proceedings and will be presented as posters or orals. At least one author of each accepted paper must register for the workshop and attend to present the work.
+We welcome submissions on all topics in robot learning, but particularly favor those addressing algorithmic and practical challenges in deploying learning-based systems in the real world. 
 
-Timeline:
-- Submission opening: 2023/09/01
+Submissions should be anonymized and have a maximum of 8 pages. They can follow one of the following formats: CoRL, ICRA, ICLR, or NeurIPS. Additionally, we encourage authors to include videos, code, or data as supplementary material either in a zip file or through external anonymized links.
+
+Accepted papers will be presented either as posters or orals, and will be archived on the workshop website with the authors' consent. All papers will be presented on-site during the workshop. At this time, we are not planning to accommodate remote presentation options.
+
+Important Dates:
+
+- Submission portal opens: 2023/09/01
 - Paper submission deadline: 2023/10/01
 - Notification of acceptance: 2023/10/13
 - Workshop date: 2023/11/06
 
-Please submit your paper through [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Workshop/Deployable). See you at Atlanta!
+Submission will be accepted through [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Workshop/Deployable).
+
 
 &nbsp;
 &nbsp;
