@@ -22,8 +22,6 @@ layout: default
 		                <p align="center">
 		                	{% if scheduleitem.img %}
 		                    	<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% endif %}
 		                </p>
 		            </div>
