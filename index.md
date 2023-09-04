@@ -4,7 +4,7 @@
 
 permalink: /
 title: Home
-workshop_title: Towards Reliable and Deployable Learning-based Robotic Systems
+workshop_title: Towards Reliable and Deployable Learning-Based Robotic Systems
 layout: home
 conference_title: Conference on Robot Learning 2023, Atlanta, USA
 workshop_date: Monday, Nov 6th, 2023
