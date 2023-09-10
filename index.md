@@ -35,6 +35,7 @@ Important Dates:
 - Notification of acceptance: 2023/10/13
 - Workshop date: 2023/11/06
 
+See our [Call for papers page](/callforpapers) for more details.
 Submission will be accepted through [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Workshop/Deployable).
 
 
