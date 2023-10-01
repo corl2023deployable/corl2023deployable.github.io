@@ -31,8 +31,8 @@ Due to the interdisciplinary nature of this workshop, we encourage participants 
 Important Dates:
 
 - Submission portal opens: 2023/09/01
-- Paper submission deadline: 2023/10/01
-- Notification of acceptance: 2023/10/13
+- Paper submission deadline: ~~2023/10/01~~ <span style="color:red">2023/10/05</span>
+- Notification of acceptance: ~~2023/10/13~~ <span style="color:red">2023/10/17</span>
 - Workshop date: 2023/11/06
 
 See our [Call for papers page](/callforpapers) for more details.
