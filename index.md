@@ -73,7 +73,7 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/russ_tedrake.jpg" width="200" />
+        <img src="assets/img/speakers/russ_tedrake.png" width="200" />
         <figcaption><b>Russ Tedrake</b><br>MIT, Toyota Research Institute</figcaption>
         </figure>
     </div>

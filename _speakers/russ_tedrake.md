@@ -5,5 +5,5 @@ affil: MIT
 affil_link: www.mit.edu
 affil2: Toyota Research Institute
 affil2_link: https://www.tri.global/
-img: russ_tedrake.jpg
+img: russ_tedrake.png
 ---
