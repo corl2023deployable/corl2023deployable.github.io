@@ -6,9 +6,9 @@ sequence_id: 15
 # speaker: Speaker 2
 
 # Title of the event
-title: Debate
+title: Social & Coffee 
 
 # Time of the event
-time: 16:30-17:30
+time: 17:00-17:30
 
 ---
