@@ -3,7 +3,7 @@
 sequence_id: 12
 
 # Speaker name
-# speaker: Speaker 8
+speaker: Speaker 8
 
 # Title of the event
 title: Invited Talk 8
