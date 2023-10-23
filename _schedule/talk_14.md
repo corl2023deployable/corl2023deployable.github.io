@@ -3,12 +3,12 @@
 sequence_id: 14
 
 # Speaker name
-speaker: Speaker 9
+speaker: 
 
 # Title of the event
-title: Invited Talk 9
+title: Debate
 
 # Time of the event
-time: 16:00-16:30
+time: 16:00-17:00
 
 ---

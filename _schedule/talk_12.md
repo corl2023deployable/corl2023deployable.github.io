@@ -3,10 +3,10 @@
 sequence_id: 12
 
 # Speaker name
-# speaker: Speaker 2
+speaker: Speaker 8
 
 # Title of the event
-title: Coffee Break and Posters
+title: Invited Talk 8
 
 # Time of the event
 time: 15:00-15:30
