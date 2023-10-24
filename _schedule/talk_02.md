@@ -3,7 +3,7 @@
 sequence_id: 2
 
 # Speaker name
-speaker: Speaker 2
+speaker: Scott Kuindersma
 
 # Title of the event
 title: Invited Talk 2
