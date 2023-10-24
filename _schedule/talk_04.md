@@ -3,7 +3,7 @@
 sequence_id: 4
 
 # Speaker name
-speaker: Speaker 3
+speaker: Xiaolong Wang
 
 # Title of the event
 title: Invited Talk 3
