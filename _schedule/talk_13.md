@@ -3,7 +3,7 @@
 sequence_id: 13
 
 # Speaker name
-speaker: Speaker 9
+speaker: Chelsea Finn
 
 # Title of the event
 title: Invited Talk 9
