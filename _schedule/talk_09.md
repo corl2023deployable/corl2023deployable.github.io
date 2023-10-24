@@ -3,7 +3,7 @@
 sequence_id: 9
 
 # Speaker name
-speaker: Speaker 5
+speaker: Nicolas Heess
 
 # Title of the event
 title: Invited Talk 5
