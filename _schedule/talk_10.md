@@ -3,7 +3,7 @@
 sequence_id: 10
 
 # Speaker name
-speaker: Speaker 6
+speaker: Russ Tedrake
 
 # Title of the event
 title: Invited Talk 6
