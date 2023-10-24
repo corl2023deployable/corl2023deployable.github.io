@@ -3,7 +3,7 @@
 sequence_id: 1
 
 # Speaker name
-speaker: Speaker 1
+speaker: Stefan Schaal
 
 # Title of the event
 title: Invited Talk 1
