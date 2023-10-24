@@ -3,7 +3,7 @@
 sequence_id: 6
 
 # Speaker name
-speaker: Speaker 4
+speaker: Dieter Fox
 
 # Title of the event
 title: Invited Talk 4
