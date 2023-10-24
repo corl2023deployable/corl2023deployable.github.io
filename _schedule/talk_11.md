@@ -3,7 +3,7 @@
 sequence_id: 11
 
 # Speaker name
-speaker: Speaker 7
+speaker: Sergey Levine
 
 # Title of the event
 title: Invited Talk 7
