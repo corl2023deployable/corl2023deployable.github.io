@@ -6,7 +6,7 @@ sequence_id: 6
 speaker: Dieter Fox
 
 # Title of the event
-title: Invited Talk 4
+title: 'Invited Talk: <br>Simulation Benchmarking for Real World Deployment'
 
 # Time of the event
 time: 11:10-11:40

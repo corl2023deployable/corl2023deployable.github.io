@@ -6,7 +6,7 @@ sequence_id: 11
 speaker: Sergey Levine
 
 # Title of the event
-title: Invited Talk 7
+title: 'Invited Talk: <br>General-Purpose Pretrained Models for Robotics'
 
 # Time of the event
 time: 14:30-15:00

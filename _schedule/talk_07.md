@@ -3,7 +3,7 @@
 sequence_id: 7
 
 # Speaker name
-# speaker: Panelists
+speaker: Dieter Fox, Emo Todorov, Nicolas Heess, Russ Tedrake, Scott Kuindersma
 
 # Title of the event
 title: Panel Discussion

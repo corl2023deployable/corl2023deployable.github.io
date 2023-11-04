@@ -3,7 +3,7 @@
 sequence_id: 14
 
 # Speaker name
-speaker: 
+speaker: Chelsea Finn, Russ Tedrake, Sergey Levine, Xiaolong Wang, Emo Todorov, Scott Kuindersma, Stefan Schaal
 
 # Title of the event
 title: Debate
