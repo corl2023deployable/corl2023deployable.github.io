@@ -30,7 +30,7 @@ The first 3 presentations take 5 minutes each, and the last 3 take 3 minutes eac
 
 Ruihan Yang, Zhuoqun Chen, Jianhan Ma, Chongyi Zheng, Yiyu Chen, Quan Nguyen, Xiaolong Wang 
 
-### Best Paper Award Runners-Up
+### Best Paper Runners-Up
 **State Estimation Transformers for Agile Legged Locomotion**
 
 Chen Yu, Yichu Yang, Tianlin Liu
