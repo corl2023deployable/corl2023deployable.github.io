@@ -3,7 +3,7 @@
 sequence_id: 3
 
 # Speaker name
-# speaker: Paper Authors
+speaker: See details below
 
 # Title of the event
 title: Spotlight Talks
