@@ -6,7 +6,7 @@ sequence_id: 14
 speaker: Chelsea Finn, Russ Tedrake, Sergey Levine, Xiaolong Wang, Emo Todorov, Scott Kuindersma, Stefan Schaal
 
 # Title of the event
-title: Debate
+title: 'Debate: Is Scaling Enough to Deploy General Purpose Robots'
 
 # Time of the event
 time: 16:00-17:00

@@ -6,7 +6,7 @@ sequence_id: 7
 speaker: Dieter Fox, Emo Todorov, Nicolas Heess, Russ Tedrake, Scott Kuindersma
 
 # Title of the event
-title: Panel Discussion
+title: 'Panel: The Ingredients of Deploying Learning-Based Robotic Systems'
 
 # Time of the event
 time: 11:40-12:40
