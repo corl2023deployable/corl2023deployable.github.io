@@ -3,7 +3,7 @@
 sequence_id: 5
 
 # Speaker name
-# speaker: Speaker 2
+speaker: MUSE 1
 
 # Title of the event
 title: Coffee Break and Posters
