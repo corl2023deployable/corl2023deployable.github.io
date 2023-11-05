@@ -6,7 +6,7 @@ sequence_id: 12
 speaker: Emo Todorov
 
 # Title of the event
-title: 'Invited Talk: <br>Model-based Optimization with MuJoCo Physics'
+title: 'Model-based Optimization with MuJoCo Physics'
 
 # Time of the event
 time: 15:00-15:30

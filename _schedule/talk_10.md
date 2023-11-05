@@ -6,7 +6,7 @@ sequence_id: 10
 speaker: Russ Tedrake
 
 # Title of the event
-title: "Invited Talk: <br>Lessons from Building Model-based and Learning-based Dexterous Manipulation Systems"
+title: "Lessons from Building Model-based and Learning-based Dexterous Manipulation Systems"
 
 # Time of the event
 time: 14:00-14:30
