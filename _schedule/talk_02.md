@@ -6,7 +6,7 @@ sequence_id: 2
 speaker: Scott Kuindersma
 
 # Title of the event
-title: Invited Talk 2
+title: 'Putting Dancing Robots to Work'
 
 # Time of the event
 time: 9:10-9:40

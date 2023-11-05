@@ -6,7 +6,7 @@ sequence_id: 10
 speaker: Russ Tedrake
 
 # Title of the event
-title: "Lessons from Building Model-based and Learning-based Dexterous Manipulation Systems"
+title: "Many views of robustness: from robust control to foundation models"
 
 # Time of the event
 time: 14:00-14:30

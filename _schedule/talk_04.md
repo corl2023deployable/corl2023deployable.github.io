@@ -6,7 +6,7 @@ sequence_id: 4
 speaker: Xiaolong Wang
 
 # Title of the event
-title: Invited Talk 3
+title: 'Generalizable Geometric Robot Learning'
 
 # Time of the event
 time: 10:10-10:40

@@ -6,7 +6,7 @@ sequence_id: 1
 speaker: Stefan Schaal
 
 # Title of the event
-title: Invited Talk 1
+title: 'AI-Enabled Robots: Towards Real-World Applications'
 
 # Time of the event
 time: 8:40-9:10
