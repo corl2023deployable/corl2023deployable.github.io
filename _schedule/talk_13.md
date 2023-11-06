@@ -6,7 +6,7 @@ sequence_id: 13
 speaker: Chelsea Finn
 
 # Title of the event
-title: Invited Talk 9
+title: "Data for Robot Manipulation: From Demonstrations to Autonomy"
 
 # Time of the event
 time: 15:30-16:00
