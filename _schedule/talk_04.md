@@ -11,7 +11,7 @@ title: 'Generalizable Geometric Robot Learning'
 # Time of the event
 time: 10:10-10:40
 
-video_url: "https://www.youtube.com/watch?v=dF1Fr8n_Ufc"
-
+video_url: "https://www.youtube.com/watch?v=dF1Fr8n_Ufc&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=5"
+# slides: ""
 
 ---

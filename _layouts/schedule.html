@@ -25,6 +25,12 @@ layout: default
 						  {% if scheduleitem.video_url %}
 							[<a href="{{ scheduleitem.video_url }}" target="_blank">Video</a>]
 						  {% endif %}
+						  {% if scheduleitem.audio_url %}
+						  [<a href="{{ scheduleitem.audio_url }}" target="_blank">Audio</a>]
+							{% endif %}
+						  {% if scheduleitem.slides %}
+						  [<a href="{{ scheduleitem.slides }}" target="_blank">Slides</a>]
+							{% endif %}
 						</b>
 					  </div>
 		        </td>

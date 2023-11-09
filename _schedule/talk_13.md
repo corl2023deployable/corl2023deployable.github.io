@@ -11,4 +11,5 @@ title: "Data for Robot Manipulation: From Demonstrations to Autonomy"
 # Time of the event
 time: 15:30-16:00
 
+audio_url: "https://www.youtube.com/watch?v=SZQB8mOSF8E&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=12"
 ---
