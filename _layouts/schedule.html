@@ -19,9 +19,14 @@ layout: default
 		        </td>
 
 		        <td align="center">
-		        	<div class="col-xs-12">
-			        	<b>{{ scheduleitem.title }}</b>
-		        	</div>
+					<div class="col-xs-12">
+						<b>
+						  {{ scheduleitem.title }}
+						  {% if scheduleitem.video_url %}
+							[<a href="{{ scheduleitem.video_url }}" target="_blank">Video</a>]
+						  {% endif %}
+						</b>
+					  </div>
 		        </td>
 		        <td>
 		            <div class="people-name text-center">
