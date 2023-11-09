@@ -29,10 +29,7 @@ layout: default
 						  [<a href="{{ scheduleitem.audio_url }}" target="_blank">Audio</a>]
 							{% endif %}
 						  {% if scheduleitem.slides %}
-						  <a href="{{ scheduleitem.slides | prepend: '/assets/slides/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Slides</a>
-						  {% endif %}
-						  {% if scheduleitem.slides %}
-						  <a href="{{ scheduleitem.slides | prepend: '/assets/slides/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Slides</a>
+						  [<a href="{{ scheduleitem.slides | prepend: '/assets/slides/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Slides</a>]
 						  {% endif %}
 						  {% if scheduleitem.slides_url %}
 						  [<a href="{{ scheduleitem.slides_url }}" target="_blank">Slides</a>]
